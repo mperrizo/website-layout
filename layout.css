@@ -34,3 +34,35 @@ header a {
 #big-promo {
     padding-top: 200px;
 }
+
+.promo message {
+    width: 60%;
+    padding: 50px;
+    
+}
+        
+.product-features {
+    display: flex;
+}
+        
+.feature {
+    text-align:center;
+    padding: 20px;
+        
+    }
+        
+.feature-image {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto 0 auto;
+    border-radious: 50%;
+    overflow: hidden;
+}
+
+.product-but-it-now {
+    align-items: center'
+}
+
+.product-info {
+    text-align: right;
+}
